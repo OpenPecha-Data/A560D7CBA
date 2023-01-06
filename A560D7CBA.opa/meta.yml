@@ -1,0 +1,19 @@
+id: A560D7CBA
+title: Aspiration Prayer for the Flourishing of the Jonang Teachings
+type: translation
+pechas:
+- I2C135184
+- I5422B4E3
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 11:52:25.345865
+  last_modified_at: 2023-01-04 11:52:25.345893
+  collections:
+  - Fourteenth Dalai Lama Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I2C135184/E6E7: '5713'
+  I5422B4E3/4ACE: '5713'
